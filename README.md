@@ -1,4 +1,4 @@
-# Solution of NordCloud test
+# Solution of NC test
 
 ## Table of content
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This is the solution for the NordCloud test. The solution is build using React. The app shows all the link stations and devices in a graph. It calculates the power and best link stations for the given devices. It also takes input from the user and calculate power and best link station for the inputted device's coordinate.
+This is the solution for the NC test. The solution is build using React. The app shows all the link stations and devices in a graph. It calculates the power and best link stations for the given devices. It also takes input from the user and calculate power and best link station for the inputted device's coordinate.
 
 ## Dependecies
 
